@@ -40,9 +40,18 @@ public class App {
         respuesta = 14 < 25 || 1 > 5; // operador or 
 
         // operadores bit a bit
-        
+        // & = funciona como el and en bit a bit
+        // ^ = funciona para sacar la potencia , y para comparar 2 expresiones logicas
 
-        sout
+        // estructuras de control
+        if (respuesta) {
+            // bloque de codigo
+        }
+        if (respuesta) {
+            // bloque de codigo si se cumple
+        } else if(respuesta) {
+            // bloque de codigo si no se cumple
+        }
 
     }
 }
